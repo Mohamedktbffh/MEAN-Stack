@@ -1,0 +1,29 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamedktbffh/MEAN-Stack.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Sdk Med",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamedktbffh/MEAN-Stack/issues"
+  },
+  "homepage": "https://github.com/Mohamedktbffh/MEAN-Stack#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongod": "^2.0.0",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.12.4"
+  }
+}
